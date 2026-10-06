@@ -1,3 +1,8 @@
+// Alejandro Sandoval Vega
+//ING. TI
+//00625910
+
+
 #pragma once
 using namespace std;
 #include <iostream>
