@@ -1,3 +1,8 @@
+// Alejandro Sandoval Vega
+//ING. TI
+//00625910
+
+
 #include <iostream>
 #include "Formas.h"
 using namespace std;
