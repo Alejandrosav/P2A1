@@ -1,3 +1,8 @@
+// Alejandro Sandoval Vega
+//ING. TI
+//00625910
+
+
 #include "Formas.h"
 #include <iostream>
 #include <cmath>
